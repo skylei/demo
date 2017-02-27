@@ -1,0 +1,14 @@
+{
+    "name": "skylei/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "skylei",
+            "email": "skylei@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
